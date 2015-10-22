@@ -1,0 +1,12 @@
+# Site settings
+title: Anvil Hack
+email: yo@hacksmiths.club
+description: "Anvil - Hacksmiths hackathon at Goldsmiths University"
+baseurl: ""
+url: "http://anvil.hacksmiths.club"
+twitter_username: hacksmiths
+github_username:  hacksmiths
+
+# Build settings
+markdown: kramdown
+permalink: pretty
